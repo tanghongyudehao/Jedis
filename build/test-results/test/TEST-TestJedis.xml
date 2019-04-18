@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestJedis" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-18T05:38:28" hostname="PC1498" time="45.979">
+  <properties/>
+  <testcase name="testJedisPool" classname="TestJedis" time="45.979"/>
+  <system-out><![CDATA[唐泓宇
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
